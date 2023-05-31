@@ -1,0 +1,22 @@
+{
+  "name": "package1s",
+  "version": "1.0.0",
+  "description": "numberincrementer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-Gabrie1/NPM-create.git"
+  },
+  "keywords": [
+    "1S"
+  ],
+  "author": "Sargon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-Gabrie1/NPM-create/issues"
+  },
+  "homepage": "https://github.com/S-Gabrie1/NPM-create#readme"
+}
